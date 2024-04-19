@@ -4,13 +4,13 @@ HomeBank é um sistema de gerenciamento financeiro pessoal desenvolvido como par
 
 ## Descrição
 
-Este sistema foi desenvolvido como parte de um desafio proposto pelo bootcamp One. Ele permite aos usuários acompanhar suas finanças, registrar transações, visualizar saldo e muito mais.
+Este sistema foi desenvolvido como parte de um desafio proposto pelo bootcamp One T6. Ele permite aos usuários acompanhar suas finanças, registrar transações, visualizar saldo e muito mais.
 
 ## Recursos
 
-- Cadastramento de cliente
-- Consulta de saldos
-- Opração de depósito
+- Cadastro de cliente
+- Consulta de saldo
+- Operação de depósito
 - Operação de saque
 - Saída do sistema
 
@@ -31,8 +31,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Autores
 
-- [Claudio G. Vargas](https://github.com/cgvargas) - Desenvolvedor principal
+- Claudio G. Vargas - Desenvolvedor principal
 
 ## Licença
 
-(Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes).
+Este projeto não é licenciado e é destinado exclusivamente para fins acadêmicos.
+
+
