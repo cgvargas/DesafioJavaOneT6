@@ -4,14 +4,15 @@ HomeBank é um sistema de gerenciamento financeiro pessoal desenvolvido como par
 
 ## Descrição
 
-Este sistema foi desenvolvido como parte de um desafio proposto pelo bootcamp One T6, oferecido pela Alura em parceria com a Oracle Brasil. Ele permite aos usuários acompanhar suas finanças, registrar transações, visualizar relatórios e muito mais.
+Este sistema foi desenvolvido como parte de um desafio proposto pelo bootcamp One. Ele permite aos usuários acompanhar suas finanças, registrar transações, visualizar saldo e muito mais.
 
 ## Recursos
 
-- Registre suas transações financeiras
-- Visualize um resumo de suas finanças
-- Categorize suas transações
-- Gere relatórios de despesas e receitas
+- Cadastramento de cliente
+- Consulta de saldos
+- Opração de depósito
+- Operação de saque
+- Saída do sistema
 
 ## Pré-requisitos
 
@@ -30,7 +31,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Autores
 
-- [Nome do Autor](https://github.com/usuario) - Desenvolvedor principal
+- [Claudio G. Vargas](https://github.com/cgvargas) - Desenvolvedor principal
 
 ## Licença
 
