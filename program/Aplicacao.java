@@ -2,6 +2,7 @@
  * Esta classe representa a aplicação principal do sistema bancário CGVBank.
  * Permite aos usuários abrir uma conta bancária, visualizar informações da conta
  * e realizar operações como depósito, saque e consulta de saldo.
+ * Também conta com segurança de transação de saque e depósito.
  */
 package program;
 
